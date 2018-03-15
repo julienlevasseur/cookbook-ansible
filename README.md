@@ -1,4 +1,11 @@
 # ansible
 
-TODO: Enter the cookbook description here.
+Install Ansible
 
+## Usage
+
+```json
+"run_list": [
+    "recipe[ansible::default]"
+]
+```
