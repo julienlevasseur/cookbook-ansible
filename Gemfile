@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 
 gem 'rake'
 gem 'berkshelf', '~> 4.0'
+gem 'inspec'
 
 group :integration do
   gem 'test-kitchen', '~> 1.2'
